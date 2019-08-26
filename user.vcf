@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Melvin;Matt;;;
+FN: Matt Melvin
+ORG: HM Melvin Painting
+TITLE:Owner
+EMAIL;type=INTERNET;type=WORK;type=pref:hmatt.melvin@gmail.com
+TEL;type=WORK;type=VOICE:309 721 4207
+item1.ADR;type=WORK;type=pref:;;Broken Arrow, OK
+item2.URL;type=pref:
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
