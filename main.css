@@ -30,13 +30,7 @@ img {
     height: auto;
     width: auto;
     object-fit: contain;
-}
 
-img.profile-pic {
-	height: 30%;
-	width: 30%;
-	object-fit: cover;
-	border-radius: 50%;
 }
 
 .container {
@@ -95,7 +89,7 @@ img.profile-pic {
 
 .col.is-6 {
 	flex: none;
-	width: 60%;
+	width:60%;
 }
 
 .col.is-7 {
@@ -123,66 +117,66 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height:25%
 }
 
 .primary-info {
-	height: 15%;
+	height: 20%;
 }
 
 .secondary-info {
-	height: 8%;
+	height: 9%;
 }
 
-.bg-color-grey {
-	background-color: #F2F2F2;
+.bg-color-dimgray {
+	background-color: #1a1a1a;
 }
 
-.bg-color-white {
-	background-color: white;
+.bg-color-gainsboro {
+	background-color: #FFFFFF;
 }
 
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
-    font-size: 20px;
+    color: #000000;
+    font-size: 22px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: #333333;
-    font-size: 12px;
+    font-weight: 300;
+    color: #000000;
+    font-size: 14px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
-    font-size: 12px;
+    color: #000000;
+    font-size: 16px;
 }
 
 .bottom {
-	height: 23%;
+	height: 20%;
 }
 
 .button {
-	background-color: #219653;
-	height: 48px;
-	padding-left: 24px
-	padding-right: 24px;
+	background-color: #c1272d;
+	height: 40px;
+	padding-left: 2;
+	padding-right:2;
 	text-align: center;
 	vertical-align: middle;
-	line-height: 48px;
-	font-family: 'Muli', sans-serif;
+	line-height: 40px;
+	font-family: 'Lato', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight:400;
 }
 
 @media screen and (max-width: 600px) {
   img.profile-pic {
-    height: 60%;
+    height:60%;
     width: 60%;
   }
 }
